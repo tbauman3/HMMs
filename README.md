@@ -3,7 +3,7 @@ Theory and application of HMMs for university course: Knowledge discovery in dat
 
 ## Description
 This project contains the following file:
-* pdf file with the seminar.
+* pdf file of the seminar.
 
 ## Topic outline
 This project explores the Hidden Markov Model (HMM), which assumes a hidden process described by a Markov chain that influences observed data. HMMs are unique in that they consider unobservable causality. Formulated in the 19th century by Andrey Markov, HMMs gained traction in the 1960s and 1970s with the development of algorithms like forward, Viterbi, and Baum-Welch. These algorithms help identify parameters that fit observed data and uncover hidden sequences.
